@@ -17,6 +17,9 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/qApznZ?referralCode=RC3znh)
 
+**azure**更改
+<img width="978" alt="image" src="https://user-images.githubusercontent.com/72091562/236669874-9c43af4b-8a7a-47c9-8f20-5988a6305028.png">
+
 # 演示
 
 https://user-images.githubusercontent.com/26161723/233777277-e3b9928e-b88f-43e2-b0e0-3cbc923bc799.mp4
